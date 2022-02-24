@@ -20,8 +20,8 @@
   Using OS  
     [![JS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)]()
     [![JS](https://img.shields.io/badge/MacOS-0078D6?style=flat-square&logo=Windows&logoColor=white)]()
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harandal24601&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harandal24601)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harandal24601&show_icons=true&theme=radical)
-
