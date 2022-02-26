@@ -19,7 +19,7 @@
 
   Using OS  
     [![JS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)]()
-    [![JS](https://img.shields.io/badge/MacOS-0078D6?style=flat-square&logo=Windows&logoColor=white)]()
+    [![JS](https://img.shields.io/badge/Window10-0078D6?style=flat-square&logo=Windows&logoColor=white)]()
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harandal24601&show_icons=true&theme=tokyonight)
