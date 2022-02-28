@@ -11,13 +11,13 @@
     [![JS](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
     [![JS](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)]()
 
-  Using IDE  
+  Used IDE  
     [![JS](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)]()
     [![JS](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)]()
     [![JS](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)]()
     [![JS](https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=Rstudio&logoColor=white)]()
 
-  Using OS  
+  Used OS  
     [![JS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)]()
     [![JS](https://img.shields.io/badge/Window10-0078D6?style=flat-square&logo=Windows&logoColor=white)]()
 
