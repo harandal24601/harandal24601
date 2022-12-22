@@ -21,6 +21,6 @@
     [![Windows 10](https://img.shields.io/badge/Window10-0078D6?style=flat-square&logo=Windows&logoColor=white)]()
     [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)]()
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harandal24601&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harandal24601&theme=dark&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=harandal24601&show_icons=true&theme=dark"/>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=harandal24601&theme=dark&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 </div>
