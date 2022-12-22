@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:ff7f51,100:9370db&height=300&section=header&text=harandal24601&fontSize=90)
-
 <div align="center">
   
   Studied Programs  
@@ -19,5 +17,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harandal24601&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harandal24601)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harandal24601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
